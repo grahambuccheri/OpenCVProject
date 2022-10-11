@@ -1,0 +1,8 @@
+﻿  Test.cpp
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(57,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(71,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(75,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(76,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(87,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Crane\source\repos\OpenCVProject\OpenCVProject\Test.cpp(120,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCVProject.vcxproj -> C:\Users\Crane\source\repos\OpenCVProject\x64\Debug\OpenCVProject.exe
