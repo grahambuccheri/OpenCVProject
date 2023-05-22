@@ -119,13 +119,13 @@ void processImg() {
 }
 void main() {
 	
-	 //path = "Resources/forest.png";
+	// path = "Resources/forest.png";
 	 //path = "Resources/fire.jpeg";
 	// path = "Resources/test.png";
 	// path = "Resources/lol.png";
 	// path = "Resources/campfire.jpg";
-	// path = "Resources/house.png";
-	 path = "Resources/lowFire.png";
+	 path = "Resources/house.png";
+	// path = "Resources/lowFire.png";
 
 	processImg();
 	
